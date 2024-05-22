@@ -1,4 +1,4 @@
-4aecc8f720e19a691ecfc0514020749d *DESCRIPTION
+c062d3570cd0bd2af777427783fac90e *DESCRIPTION
 e5a19d1e5014ca82d60dd6655b1712da *LICENSE
 4a13e68b89936251f947666a22e8e4b6 *NAMESPACE
 b60ee8f6a4f56d9f11fe0df243fe1388 *R/RcppExports.R
@@ -13,7 +13,7 @@ b93c8ebc472d0fb6b15e62c03852ed8f *inst/include/pcg/pcg_random.hpp
 6181dada0cb87458851daf7d1873a751 *inst/include/pmj.h
 27e7cf1c169e0868b738f033898f6996 *inst/include/pmj02.h
 8a0a508e48ecbbb8d98a2a0fdd448198 *inst/include/pmj02_util.h
-d7ba64f83b7837dcc7923519a55f4e37 *inst/include/rng.h
+fc83f944a02d7711fe74e9d8d9bf8da7 *inst/include/rng.h
 f46b534492972cfb1a50a8f3e16491fa *inst/include/samplerBlueNoise.h
 ca35e012fefeffd0ec24152790f540a5 *inst/include/select_subquad.h
 2b441b0cc17ac10189e3866abc77dfcd *inst/include/single_sample.h
