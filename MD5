@@ -1,8 +1,8 @@
-c062d3570cd0bd2af777427783fac90e *DESCRIPTION
+f14f0d6a313ed7b32b315a51a42f7767 *DESCRIPTION
 e5a19d1e5014ca82d60dd6655b1712da *LICENSE
 4a13e68b89936251f947666a22e8e4b6 *NAMESPACE
 b60ee8f6a4f56d9f11fe0df243fe1388 *R/RcppExports.R
-5ecba5182392101a5d2c08b9cc9d33af *R/generate_values.R
+8ca7ae5377e321a45dc0afcba1441471 *R/generate_values.R
 0c45a60814ff4b787c55255c62a7638f *R/spacefillrRcpp.R
 db86409e145015256616640ac27e9da2 *inst/include/halton_sampler.h
 772f5e45fb54fa37717eadde82e5f90b *inst/include/low_discrepancy.h
@@ -18,7 +18,8 @@ f46b534492972cfb1a50a8f3e16491fa *inst/include/samplerBlueNoise.h
 ca35e012fefeffd0ec24152790f540a5 *inst/include/select_subquad.h
 2b441b0cc17ac10189e3866abc77dfcd *inst/include/single_sample.h
 ee533e3deaa2dd2cc5829589e3a9fbe0 *inst/include/siphash.h
-cdda82b9bc3322759184f5fdcd200cbe *inst/include/sobol.h
+2cd07ea3c3a33a526e06cbfe756ea9a8 *inst/include/sobol.h
+28c92513b27a6f016b2b943c2476e5ed *inst/include/sobol_directions.h
 c6d04750a93574dc22dfff343bf6ac53 *inst/include/sobolmatrices.h
 2ac241c0478b2f0c0b47c6c1277343ad *inst/include/util.h
 9619d1ea0de4414d286c1cf8a7ed648c *man/generate_halton_faure_set.Rd
@@ -30,8 +31,8 @@ e3ed17160633c139228b86879a99dfa6 *man/generate_pmj02_set.Rd
 58d8429e6cf066ff54762660f7f4d512 *man/generate_pmj02bn_set.Rd
 271ba521b17bceabb6f5bbc2cf4965f8 *man/generate_pmj_set.Rd
 5cda962db6db9a9cb1c70a96e61ddf82 *man/generate_pmjbn_set.Rd
-eb9f6feaf814b96c20d83fe6af477249 *man/generate_sobol_owen_set.Rd
-907ad8adcdb94064a7dad4b10db6baf9 *man/generate_sobol_set.Rd
+d63db6e79c26d8d133be13feed621ccd *man/generate_sobol_owen_set.Rd
+a12b7d9b5efd18e6cb11ed313c7fe89d *man/generate_sobol_set.Rd
 f02b2efc3ef141d7b31beef6617a753f *src/Makevars
 f258b885adba4a656a2a87e8096edf3e *src/RcppExports.cpp
 1068fe2c6803d3e8639cef576aa46823 *src/generate_point_functions.cpp
